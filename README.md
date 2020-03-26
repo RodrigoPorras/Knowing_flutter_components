@@ -1,6 +1,20 @@
-# componentes
+# Flutter Components 
 
-A new Flutter project.
+This is a testing project to know some flutter components/Widgets such as:
+ - List View 
+ - List tiles
+ - Future Builder
+ - Card Widget 
+ - Container And AnimatedContainer
+ - Inputfields
+ - DatePicker
+ - Dropdown
+ - Slider
+ - CheckBox and switches
+ - Listview Builder 
+ - InfiniteScroll
+ - pull to refresh 
+ among others...
 
 ## Getting Started
 
